@@ -37,4 +37,4 @@ steps:
     
 images:
   - 'gcr.io/$PROJECT_ID/xlayers:$SHORT_SHA'
-  - 'gcr.io/$PROJECT_ID/xlayers:latest
+  - 'gcr.io/$PROJECT_ID/xlayers:latest'
