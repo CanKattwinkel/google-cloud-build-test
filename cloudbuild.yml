@@ -40,4 +40,4 @@ images:
   - 'gcr.io/$PROJECT_ID/xlayers:latest'
 
 options:
-  machineType: 'N1_HIGHCPU_64'
+  machineType: 'N1_HIGHCPU_32'
